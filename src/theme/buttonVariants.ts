@@ -8,9 +8,9 @@ export const buttonVariants = {
   },
 
   defaults: {
-    height: 56,
-    alignItens: "center",
-    justifyContent: "center",
-    borderRadius: 5,
+    // height: 56,
+    // alignItens: "center",
+    // justifyContent: "center",
+    // borderRadius: 5,
   },
 };
